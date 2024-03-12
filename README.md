@@ -1,3 +1,5 @@
+![banner](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAyNDYxOTEsIm5iZiI6MTcxMDI0NTg5MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEyVDEyMTgxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzYmY4NDI3ODVlMDUwZWMxOTYyZjI0MGQ5N2FiMGUyMjk5Yjc3ODQyMmE1MDJmNDZmMmE3MjJhNDRjNGY2ZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.uCFmqWtZ9qzMFdSsM7T4VruTeUnZonsJ1fhJ6I9CA4s)
+
 <h1 align="center">Hi 👋, I'm Muhammad Irtiza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -10,6 +12,10 @@
 - 📫 How to reach me **muhammad_irteza@aptechnorth.edu.pk**
 
 - ⚡ Fun fact **Fiction Book Reading , Watercolor Painting**
+
+
+![Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
