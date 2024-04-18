@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm irtiza</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
+![gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
